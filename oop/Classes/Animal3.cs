@@ -1,53 +1,57 @@
 namespace oop.Classes;
-
 public class Animal3
 {
-    private string name = "";
-    private string sound = "";
-    public static int numOfAnimals = 0;
-    public const string SHELTER = "Derek's shelter for animals.";
-    // readonly is set by the constructor and then can't change
-    public readonly int id;
+    protected string name = "";
+    protected string sound = "";
+    // is-a vs has-a relationship
+    // Delegate
+    protected AnimalIdInfo animalIdInfo = new();
 
-
-    public Animal3(string name, string sound, int id)
+    public void SetAnimalIdInfo(int Id, string owner)
     {
-        SetName(name);
+        animalIdInfo.IDNum = Id;
+        animalIdInfo.Owner = owner;
+    }
+
+    public void GetAnimalIdInfo()
+    {
+        Console.WriteLine($"{Name} has the Id of {animalIdInfo.IDNum} and is owned by {animalIdInfo.Owner}");
+    }
+
+    public Animal3(string name, string sound)
+    {
+        Name = name;
         Sound = sound;
-        NumOfAnimals = 1;
-        this.id = id;
     }
 
     // default constructors
-    public Animal3() : this("No name.", "No sound", -1) {}
+    public Animal3() : this("No name.", "No sound") {}
     
-    public Animal3(string name) : this(name, "No sound", -1) {}
+    public Animal3(string name) : this(name, "No sound") {}
 
-    public void MakeSound()
+    public virtual void MakeSound()
     {
-         Console.WriteLine("{0} says {1}.", name, sound);
-    }
-    
-    // Getters and Settters
-    public void SetName(string name)
-    {
-        if (!name.Any(char.IsDigit))
-        {
-            this.name = name;
-        }
-        else
-        {
-            this.name = "No Name";
-            Console.WriteLine("Name cannot contain numbers.");
-        }
-    }
-
-    public string GetName()
-    {
-        return name;
+        Console.WriteLine($"{Name} says {Sound}.");
     }
 
     // property
+    public string Name
+    {
+        get {return name;}
+        set
+        {
+            if (value.Any(char.IsDigit))
+            {
+                name = "No Name";
+                Console.WriteLine("Name cannot contain digits.");
+            }
+            else
+            {
+                name = value;
+            }
+        }
+    }
+    
     public string Sound
     {
         get {return sound;}
@@ -66,10 +70,20 @@ public class Animal3
     }
 
     public string Owner { get; set; } = "No owner";
-    
-    public static int NumOfAnimals
+
+    public class AnimalHealth
     {
-        get { return numOfAnimals; }
-        set { numOfAnimals += value; }
-    }
+        public bool HealthyWeight(double height, double weight)
+        {
+            double calc = height / weight;
+            if ( (calc >= .18) && (calc <= .27) )
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+    }   
 }

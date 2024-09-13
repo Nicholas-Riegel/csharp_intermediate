@@ -41,6 +41,29 @@ using oop.Structs;
 // Console.WriteLine(animal2.sound);
 // Console.WriteLine(animal2.Owner);
 
-Animal2 cat = new();
-cat.SetName("Whiskers");
-cat.Sound = "Meow";
+// Animal2 cat = new();
+// cat.SetName("Whiskers");
+// cat.Sound = "Meow";
+
+Animal3 Whiskers = new()
+{
+    Name = "Whiskers",
+    Sound = "Meow"
+};
+
+Dog Grover = new()
+{
+    Name = "Grover",
+    Sound = "Woof",
+    Sound2 = "Grrrr"
+};
+
+Grover.Sound = "Wooooof";
+
+Whiskers.MakeSound();
+Grover.MakeSound();
+Whiskers.SetAnimalIdInfo(123, "Sally Smith");
+Whiskers.SetAnimalIdInfo(124, "Paul Brown");
+Whiskers.GetAnimalIdInfo();
+Animal3.AnimalHealth getHealth = new();
+Console.WriteLine("Is my animal healthy? {0}", getHealth.HealthyWeight(11, 46));
