@@ -1,0 +1,15 @@
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/abstract_classes/bin/Debug/net8.0/abstract_classes
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/abstract_classes/bin/Debug/net8.0/abstract_classes.deps.json
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/abstract_classes/bin/Debug/net8.0/abstract_classes.runtimeconfig.json
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/abstract_classes/bin/Debug/net8.0/abstract_classes.dll
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/abstract_classes/bin/Debug/net8.0/abstract_classes.pdb
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/abstract_classes/obj/Debug/net8.0/abstract_classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/abstract_classes/obj/Debug/net8.0/abstract_classes.AssemblyInfoInputs.cache
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/abstract_classes/obj/Debug/net8.0/abstract_classes.AssemblyInfo.cs
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/abstract_classes/obj/Debug/net8.0/abstract_classes.csproj.CoreCompileInputs.cache
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/abstract_classes/obj/Debug/net8.0/abstract_classes.sourcelink.json
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/abstract_classes/obj/Debug/net8.0/abstract_classes.dll
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/abstract_classes/obj/Debug/net8.0/refint/abstract_classes.dll
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/abstract_classes/obj/Debug/net8.0/abstract_classes.pdb
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/abstract_classes/obj/Debug/net8.0/abstract_classes.genruntimeconfig.cache
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/abstract_classes/obj/Debug/net8.0/ref/abstract_classes.dll
