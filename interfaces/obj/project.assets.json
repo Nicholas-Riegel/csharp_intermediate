@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nicholas/Dev/csharp/Derek_Banas/interfaces/interfaces.csproj",
+      "projectUniqueName": "/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/interfaces/interfaces.csproj",
       "projectName": "interfaces",
-      "projectPath": "/Users/nicholas/Dev/csharp/Derek_Banas/interfaces/interfaces.csproj",
+      "projectPath": "/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/interfaces/interfaces.csproj",
       "packagesPath": "/Users/nicholas/.nuget/packages/",
-      "outputPath": "/Users/nicholas/Dev/csharp/Derek_Banas/interfaces/obj/",
+      "outputPath": "/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/interfaces/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/nicholas/.nuget/NuGet/NuGet.Config"

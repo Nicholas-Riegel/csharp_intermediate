@@ -1,0 +1,15 @@
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/interfaces/bin/Debug/net8.0/interfaces
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/interfaces/bin/Debug/net8.0/interfaces.deps.json
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/interfaces/bin/Debug/net8.0/interfaces.runtimeconfig.json
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/interfaces/bin/Debug/net8.0/interfaces.dll
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/interfaces/bin/Debug/net8.0/interfaces.pdb
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/interfaces/obj/Debug/net8.0/interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/interfaces/obj/Debug/net8.0/interfaces.AssemblyInfoInputs.cache
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/interfaces/obj/Debug/net8.0/interfaces.AssemblyInfo.cs
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/interfaces/obj/Debug/net8.0/interfaces.csproj.CoreCompileInputs.cache
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/interfaces/obj/Debug/net8.0/interfaces.sourcelink.json
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/interfaces/obj/Debug/net8.0/interfaces.dll
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/interfaces/obj/Debug/net8.0/refint/interfaces.dll
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/interfaces/obj/Debug/net8.0/interfaces.pdb
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/interfaces/obj/Debug/net8.0/interfaces.genruntimeconfig.cache
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/interfaces/obj/Debug/net8.0/ref/interfaces.dll
