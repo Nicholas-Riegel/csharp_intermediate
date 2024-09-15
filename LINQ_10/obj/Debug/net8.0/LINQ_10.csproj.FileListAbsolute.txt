@@ -1,0 +1,15 @@
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/LINQ_10/bin/Debug/net8.0/LINQ_10
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/LINQ_10/bin/Debug/net8.0/LINQ_10.deps.json
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/LINQ_10/bin/Debug/net8.0/LINQ_10.runtimeconfig.json
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/LINQ_10/bin/Debug/net8.0/LINQ_10.dll
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/LINQ_10/bin/Debug/net8.0/LINQ_10.pdb
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/LINQ_10/obj/Debug/net8.0/LINQ_10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/LINQ_10/obj/Debug/net8.0/LINQ_10.AssemblyInfoInputs.cache
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/LINQ_10/obj/Debug/net8.0/LINQ_10.AssemblyInfo.cs
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/LINQ_10/obj/Debug/net8.0/LINQ_10.csproj.CoreCompileInputs.cache
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/LINQ_10/obj/Debug/net8.0/LINQ_10.sourcelink.json
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/LINQ_10/obj/Debug/net8.0/LINQ_10.dll
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/LINQ_10/obj/Debug/net8.0/refint/LINQ_10.dll
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/LINQ_10/obj/Debug/net8.0/LINQ_10.pdb
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/LINQ_10/obj/Debug/net8.0/LINQ_10.genruntimeconfig.cache
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/LINQ_10/obj/Debug/net8.0/ref/LINQ_10.dll

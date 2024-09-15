@@ -1,0 +1,15 @@
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/07_generics/bin/Debug/net8.0/07_generics
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/07_generics/bin/Debug/net8.0/07_generics.deps.json
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/07_generics/bin/Debug/net8.0/07_generics.runtimeconfig.json
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/07_generics/bin/Debug/net8.0/07_generics.dll
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/07_generics/bin/Debug/net8.0/07_generics.pdb
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/07_generics/obj/Debug/net8.0/07_generics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/07_generics/obj/Debug/net8.0/07_generics.AssemblyInfoInputs.cache
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/07_generics/obj/Debug/net8.0/07_generics.AssemblyInfo.cs
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/07_generics/obj/Debug/net8.0/07_generics.csproj.CoreCompileInputs.cache
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/07_generics/obj/Debug/net8.0/07_generics.sourcelink.json
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/07_generics/obj/Debug/net8.0/07_generics.dll
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/07_generics/obj/Debug/net8.0/refint/07_generics.dll
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/07_generics/obj/Debug/net8.0/07_generics.pdb
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/07_generics/obj/Debug/net8.0/07_generics.genruntimeconfig.cache
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/07_generics/obj/Debug/net8.0/ref/07_generics.dll

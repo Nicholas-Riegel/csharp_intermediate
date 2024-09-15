@@ -1,0 +1,15 @@
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/delegates_08/bin/Debug/net8.0/delegates_08
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/delegates_08/bin/Debug/net8.0/delegates_08.deps.json
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/delegates_08/bin/Debug/net8.0/delegates_08.runtimeconfig.json
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/delegates_08/bin/Debug/net8.0/delegates_08.dll
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/delegates_08/bin/Debug/net8.0/delegates_08.pdb
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/delegates_08/obj/Debug/net8.0/delegates_08.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/delegates_08/obj/Debug/net8.0/delegates_08.AssemblyInfoInputs.cache
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/delegates_08/obj/Debug/net8.0/delegates_08.AssemblyInfo.cs
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/delegates_08/obj/Debug/net8.0/delegates_08.csproj.CoreCompileInputs.cache
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/delegates_08/obj/Debug/net8.0/delegates_08.sourcelink.json
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/delegates_08/obj/Debug/net8.0/delegates_08.dll
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/delegates_08/obj/Debug/net8.0/refint/delegates_08.dll
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/delegates_08/obj/Debug/net8.0/delegates_08.pdb
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/delegates_08/obj/Debug/net8.0/delegates_08.genruntimeconfig.cache
+/Users/nicholas/Dev/csharp/Derek_Banas/csharp_intermediate/delegates_08/obj/Debug/net8.0/ref/delegates_08.dll
